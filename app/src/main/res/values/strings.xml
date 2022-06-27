@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Pollos Hermanos</string>
+    <string name="title_activity_index">Index</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="email">email</string>
+    <string name="password">password</string>
+    <string name="enter_name">enter name</string>
+    <string name="enter_mail">enter email</string>
+    <string name="enter_address">Enter Address</string>
+    <string name="enter_password">Enter Password</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="sign_up">sign up</string>
+    <string name="sign_in">Sign in</string>
+</resources>
