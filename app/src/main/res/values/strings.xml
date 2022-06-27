@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Pollos hermanos</string>
+    <string name="edit_name">Nombre</string>
+    <string name="edit_mail">Ingresar correo</string>
+    <string name="edit_password">Ingresar contreseña</string>
+    <string name="edit_password2">Confirmar contraseña</string>
+    <string name="button_into">Ingresar</string>
+    <string name="logo">logo</string>
+    <string name="ingresar_direcion">Ingresar Direcion</string>
+    <string name="registrarse">Registrarse</string>
+    <string name="ya_tienes_cuenta">Ya tienes cuenta</string>
+    <string name="comprar">Comprar</string>
+    <string name="_1_4_pollo">1/4 Pollo</string>
+    <string name="precio">Precio</string>
+    <string name="confirmar">Confirmar</string>
+    <string name="volver">Volver</string>
+    <!-- Strings used for fragments for navigation -->
+
+</resources>
